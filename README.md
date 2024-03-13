@@ -16,6 +16,8 @@
 - Visualising data
 - Web Scraping
 - Interested in machine learning
+- Current job involves a lot of statistics
+- Had fun in other stats courses
 
 ## Links ##
 
