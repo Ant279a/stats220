@@ -19,7 +19,7 @@
 
 ## Links ##
 
-# Checkout my other repos! #
+**Checkout my other repos!**
 - [Language Chat App](https://github.com/Ant279a/All_Languages)
 - [Music App](https://github.com/Antinson/Music_App)
 
